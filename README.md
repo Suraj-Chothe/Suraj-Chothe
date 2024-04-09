@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Chothe</h1>
 <h3 align="center">🌟 Enthusiastic Data Scientist with a Passion for Artificial Intelligence 🌟</h3>
 
+<h3 align="center">"Junior Data Scientist | Analytical Thinker Turning Data into Insights".</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-chothe&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-chothe" /> </p>
 
 <br>
