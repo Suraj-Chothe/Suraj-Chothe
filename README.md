@@ -4,9 +4,8 @@
 
 <h3 align="center">"Backend Developer | Building Scalable APIs & Backend Applications"</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suraj-chothe&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-chothe" />
-</p>
+  <p align="left">   <img src="https://komarev.com/ghpvc/?username=Suraj-Chothe&label=Profile%20views&color=0e75b6&style=flat"        alt="Suraj Chothe" /> </p>
+
 
 <br>
 
@@ -14,7 +13,7 @@
 
 <br>
 
-<img alt="animation_gif" align="right" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img alt="animation_gif" align="right" width="400" src="https://raw.githubusercontent.com/Suraj-Chothe/Suraj-Chothe/main/assets/backend.gif">
 
 - 😄 Pronouns: **he, him, his.**
 
