@@ -20,7 +20,7 @@
 
 ## 💼 Professional Experience
 
-**Python Backend Developer / Member of Technical Staff**
+**Python Backend Developer **
 
 - Developed and maintained REST APIs using Django REST Framework and FastAPI.
 - Worked with PostgreSQL for database operations and backend business logic.
